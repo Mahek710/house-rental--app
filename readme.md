@@ -2,6 +2,7 @@
 
 Tech Stack used: 
 XML and Java on Android Studio, Firebase for Authentication and Realtime Database
+Detailed information on the app has been put in the APP REPORT pdf file.
  GUI:  
 ### Sign In and Sign Up pages
 ![WhatsApp Image 2022-04-19 at 10 20 59 AM (1)](https://user-images.githubusercontent.com/55917458/169965214-b70e95eb-8444-4306-80a0-f23c59004fdb.jpeg)
