@@ -1,7 +1,8 @@
 # House Rental Android App
 
 Tech Stack used: 
-XML and Java on Android Studio, Firebase for Authentication and Realtime Database
+XML and Java on Android Studio, Firebase for Authentication and Realtime Database.
+
 Detailed information on the app has been put in the APP REPORT pdf file.
  GUI:  
 ### Sign In and Sign Up pages
